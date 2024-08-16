@@ -56,7 +56,7 @@ sections:
     subtitle: ''
     items:
       - title: 200%
-        subtitle: Faster
+        subtitle: ''
         text: >
           A missão da CeraVe é proporcionar cuidados com a pele eficazes,
           acessíveis e baseados em ciência. Nossos produtos são desenvolvidos
