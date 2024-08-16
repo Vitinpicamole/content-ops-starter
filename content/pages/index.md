@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Ver site cerave
         altText: ''
-        url: '/https://www.cerave.com.br/'
+        url: 'https://www.cerave.com.br/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
