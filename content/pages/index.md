@@ -185,7 +185,7 @@ sections:
       eficácia.
     actions:
       - label: Get started
-        url: /
+        url: 'https://www.cerave.com.br/'
         icon: arrowRight
         iconPosition: right
         style: secondary
