@@ -7,7 +7,7 @@ sections:
       text: Sobre a CeraVe
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       A CeraVe é uma marca globalmente reconhecida e recomendada por
       dermatologistas, dedicada ao desenvolvimento de produtos que ajudam a
