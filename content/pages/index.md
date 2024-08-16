@@ -57,10 +57,12 @@ sections:
     items:
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          A missão da CeraVe é proporcionar cuidados com a pele eficazes,
+          acessíveis e baseados em ciência. Nossos produtos são desenvolvidos
+          com ceramidas essenciais, ácido hialurônico e outras tecnologias
+          avançadas para garantir que todos, independentemente do tipo de pele,
+          possam desfrutar de uma pele saudável e hidratada.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
