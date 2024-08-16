@@ -40,7 +40,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: onde surgiu CERAVE
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
