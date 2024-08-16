@@ -127,11 +127,13 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      As ceramidas são lipídios naturais encontrados na pele que ajudam a formar
+      a barreira natural da pele e a reter a umidade. Com o tempo, a pele perde
+      ceramidas, o que pode resultar em ressecamento, irritação e outros
+      problemas cutâneos. Os produtos da CeraVe são formulados com uma mistura
+      única de três ceramidas essenciais (1, 3, 6-II) que ajudam a restaurar a
+      barreira da pele e a reter a hidratação.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
