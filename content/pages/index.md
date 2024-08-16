@@ -55,7 +55,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: 200%
+      - title: ''
         subtitle: ''
         text: >
           A missão da CeraVe é proporcionar cuidados com a pele eficazes,
