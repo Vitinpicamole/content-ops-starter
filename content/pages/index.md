@@ -82,7 +82,7 @@ sections:
     actions:
       - label: Visitar site
         altText: ''
-        url: /
+        url: 'https://www.cerave.com.br/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
