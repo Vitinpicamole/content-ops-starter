@@ -16,7 +16,7 @@ sections:
       tornou uma das marcas mais confiáveis para cuidados com a pele, graças à
       sua abordagem inovadora e baseada na ciência.
     actions:
-      - label: See Tutorials
+      - label: Ver site cerave
         altText: ''
         url: /
         showIcon: true
