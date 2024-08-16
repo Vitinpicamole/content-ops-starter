@@ -47,7 +47,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: proporcionar cuidados com a pele eficazes
+      text: Proporcionar cuidados com a pele eficazes
       color: text-dark
       styles:
         self:
