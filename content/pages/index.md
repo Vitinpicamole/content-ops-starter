@@ -16,15 +16,6 @@ sections:
       tornou uma das marcas mais confiáveis para cuidados com a pele, graças à
       sua abordagem inovadora e baseada na ciência.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
