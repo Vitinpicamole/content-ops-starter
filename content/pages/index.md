@@ -173,7 +173,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Compromisso com a Ciência
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
