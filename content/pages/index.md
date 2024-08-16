@@ -176,7 +176,7 @@ sections:
       text: Compromisso com a Ciência
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
