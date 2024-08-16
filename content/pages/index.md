@@ -178,8 +178,11 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      CeraVe está comprometida em continuar a colaborar com dermatologistas e
+      cientistas para desenvolver produtos que atendam às necessidades da pele.
+      Cada produto é desenvolvido com ingredientes cientificamente comprovados
+      para oferecer benefícios reais à pele, sempre priorizando a segurança e
+      eficácia.
     actions:
       - label: Get started
         url: /
