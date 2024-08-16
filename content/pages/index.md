@@ -143,7 +143,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Missão
       color: text-primary
       styles:
         self:
