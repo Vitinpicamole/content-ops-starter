@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      A CeraVe é uma marca globalmente reconhecida e recomendada por
+      dermatologistas, dedicada ao desenvolvimento de produtos que ajudam a
+      restaurar e manter a barreira protetora natural da pele. Fundada em 2005,
+      a CeraVe foi criada em colaboração com dermatologistas e rapidamente se
+      tornou uma das marcas mais confiáveis para cuidados com a pele, graças à
+      sua abordagem inovadora e baseada na ciência.
     actions:
       - label: Get started
         altText: ''
