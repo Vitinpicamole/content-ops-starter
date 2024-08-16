@@ -158,11 +158,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      A linha de produtos CeraVe inclui loções, cremes, géis de limpeza,
+      protetores solares e mais. Todos os produtos são desenvolvidos com a
+      tecnologia MVE (Emulsão MultiVesicular), que libera ingredientes
+      hidratantes ao longo do dia para uma hidratação duradoura.
     actions: []
     media:
       title: Title of the video
