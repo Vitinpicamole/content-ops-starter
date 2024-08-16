@@ -64,7 +64,6 @@ sections:
           avançadas para garantir que todos, independentemente do tipo de pele,
           possam desfrutar de uma pele saudável e hidratada.
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
