@@ -184,7 +184,7 @@ sections:
       para oferecer benefícios reais à pele, sempre priorizando a segurança e
       eficácia.
     actions:
-      - label: Get started
+      - label: Ver site
         url: 'https://www.cerave.com.br/'
         icon: arrowRight
         iconPosition: right
